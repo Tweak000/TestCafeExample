@@ -1,0 +1,12 @@
+{
+    "browsers": ["chrome"],
+    "skipJsErrors": true,
+    "debugMode": false,
+    "screenshots": {
+        "takeOnFails": true,
+        "path": "/artifacts/screenshots/",
+        "pathPattern": "${DATE}_${TIME}/test-${TEST_INDEX}/${USERAGENT}/${FILE_INDEX}.png"
+    },
+    "speed": 1
+    
+}

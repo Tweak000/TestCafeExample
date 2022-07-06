@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "testcafe": "^1.19.0"
+  },
+  "name": "testcafeexample.git",
+  "description": "Examples for TestCafe automation surrounding login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test:all": "testcafe tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tweak000/TestCafeExample.git"
+  },
+  "keywords": [
+    "testcafe",
+    "login",
+    "example"
+  ],
+  "author": "Tweak000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tweak000/TestCafeExample/issues"
+  },
+  "homepage": "https://github.com/Tweak000/TestCafeExample#readme"
+}
